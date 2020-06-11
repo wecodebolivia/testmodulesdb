@@ -1,0 +1,4 @@
+[submodule "mashirozx/odoo_mrp_sale_info"]
+	path = mashirozx/odoo_mrp_sale_info
+	url = git@github.com:mashirozx/odoo_mrp_sale_info.git
+	branch = 13.0
